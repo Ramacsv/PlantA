@@ -72,17 +72,13 @@ h3, h4, h5, h6 {
 
 }
 
-
-
 a {
 
 //color:#267CB9;
-color:#00ff00;
+color:#126417;
 text-decoration:none;
 
 }
-
-
 
 a:hover, a:focus {
 
@@ -91,8 +87,6 @@ color:#069;
 font-weight: bold;
 
 }
-
-
 
 a small {
 
@@ -107,14 +101,11 @@ display:block;
 }
 
 
-
 a:hover small {
 
 color:#777;
 
 }
-
-
 
 .wrapper {
 
@@ -123,7 +114,6 @@ width:860px;
 margin:0 auto;
 
 }
-
 
 
 blockquote {
@@ -138,8 +128,6 @@ font-style:italic;
 
 }
 
-
-
 code, pre {
 
 font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
@@ -147,8 +135,6 @@ font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas
 color:#333;
 
 }
-
-
 
 pre {
 
@@ -165,7 +151,6 @@ overflow-x: auto;
 }
 
 
-
 table {
 
 width:100%;
@@ -173,7 +158,6 @@ width:100%;
 border-collapse:collapse;
 
 }
-
 
 
 th, td {
@@ -187,7 +171,6 @@ border-bottom:1px solid #e5e5e5;
 }
 
 
-
 dt {
 
 color:#444;
@@ -197,7 +180,6 @@ font-weight:700;
 }
 
 
-
 th {
 
 color:#444;
@@ -205,13 +187,11 @@ color:#444;
 }
 
 
-
 img {
 
 max-width:100%;
 
 }
-
 
 
 kbd {
@@ -241,7 +221,6 @@ vertical-align: middle;
 }
 
 
-
 header {
 
 width:270px;
@@ -253,7 +232,6 @@ position:fixed;
 -webkit-font-smoothing:subpixel-antialiased;
 
 }
-
 
 
 ul.downloads {
@@ -275,7 +253,6 @@ width:270px;
 }
 
 
-
 .downloads li {
 
 width:89px;
@@ -289,7 +266,6 @@ height:40px;
 }
 
 
-
 .downloads li:first-child a {
 
 border-radius:5px 0 0 5px;
@@ -297,13 +273,11 @@ border-radius:5px 0 0 5px;
 }
 
 
-
 .downloads li:last-child a {
 
 border-radius:0 5px 5px 0;
 
 }
-
 
 
 .downloads a {
@@ -325,7 +299,6 @@ height:34px;
 }
 
 
-
 .downloads a:hover, .downloads a:focus {
 
 color:#675C5C;
@@ -335,13 +308,11 @@ font-weight:bold;
 }
 
 
-
 .downloads ul a:active {
 
 background-color:#f0f0f0;
 
 }
-
 
 
 strong {
@@ -351,7 +322,6 @@ color:#222;
 font-weight:700;
 
 }
-
 
 
 .downloads li + li + li {
