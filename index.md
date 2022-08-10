@@ -1,4 +1,4 @@
-### Welcome to Suitcase's Story Pages
+## Welcome to Suitcase's Story Pages
 
 ### Adventures of Suitecase
 
