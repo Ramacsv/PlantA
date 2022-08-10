@@ -1,37 +1,51 @@
-## Welcome to GitHub Pages
+### Welcome to Suitcase's Story Pages
 
-You can use the [editor on GitHub](https://github.com/Ramacsv/PlantA/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Adventures of Suitecase
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**_Suitecase has an island in the sky called Tree Island and he lives there also._**
 
-### Markdown
+**_The big lake  in Tree Island is called Lake Infinity._**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+_One day he was looking for a plant that could understand fox language into English._ 
 
-```markdown
-Syntax highlighted code block
+_He found the plant near the Infinity Lake._
 
-# Header 1
-## Header 2
-### Header 3
+_While going to pickup the plant he stumbled into the lake which connects to Gulf of Alaska._ 
 
-- Bulleted
-- List
+_He was trying to swim to get back but he went into Gulf of Alaska. He reached shore of Alaska._
 
-1. Numbered
-2. List
+_He checked his GPS and found out he was at a national park. It was called Glacier Bay._
 
-**Bold** and _Italic_ and `Code` text
+![Infinity Lake](InfinityLakeAlaska.svg)
 
-[Link](url) and ![Image](src)
-```
+<b>Image Photo by SuiteCase Friend</b>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+<hr style="border:10px solid yellow">
 
-### Jekyll Themes
+_He explored the park.  It was beautiful and really liked it._  
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ramacsv/PlantA/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+_He met a polar bear. Made  friends with the polar bear._  
 
-### Support or Contact
+_Suitecase was hungry and the bear prepared  some special energy soup and gave him._ 
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+_Suitecase had a folded up tent in his pocket._ 
+
+_He put it in a safe lock box and gave it the bear to use when it wants to. Bear was very happy with the tent._
+
+
+_The bear showed him to how to get back to tree island._
+
+_Suitecase thanked the bear and swam back to his home in Tree Island._
+
+_He got the plant near the Infinity Lake. He used it to translate Kamala fox language into English._
+
+_He gave her the translator plant so that she could talk to everyone. Kamala fox was happy._
+
+### Everything worked out well
+
+**The end**
+
+**Thank you for visiting my page**
+
+
+# Test  is not building
