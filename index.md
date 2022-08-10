@@ -1,7 +1,8 @@
-# Test color
+
+# Adventures of Suitecase
+
 ## Welcome to Suitcase's Story Pages
 
-### Adventures of Suitecase
 
 **_Suitecase has an island in the sky called Tree Island and he lives there also._**
 
